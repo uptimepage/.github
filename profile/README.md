@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/uptimepage/.github/main/profile/org-icon.png" width="96" alt="UptimePage">
-
-# UptimePage
-
-**Status pages and uptime monitoring.** Hosted, free, open source.
+<img src="https://raw.githubusercontent.com/uptimepage/.github/main/profile/og.png" width="720" alt="UptimePage — status pages and uptime monitoring">
 
 [**uptimepage.dev**](https://uptimepage.dev) · [Docs](https://uptimepage.github.io/uptimepage/) · [Sign in with GitHub](https://uptimepage.dev)
 
